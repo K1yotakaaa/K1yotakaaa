@@ -1,11 +1,21 @@
 <!-- ⚡ GitHub Profile README -->
 
-<h1 align="center" style="font-size: 42px;">
-  <span style="color:#00F5FF;">ＫＵＲＯ</span>
+<h1 align="center">
+  <span style="font-size: 42px; font-weight: bold; color: #00F5FF;">Kuro</span>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9400FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Tech+Explorer;Crafting+Aesthetic+and+Dynamic+Web+Experiences" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <i>Frontend Developer • Tech Explorer • Building Aesthetic Web Experiences</i>
+  <a href="https://github.com/K1yotakaaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kuroli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
