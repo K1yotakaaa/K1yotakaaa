@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 About Me  
+## 📌 About Me  
 
 <div align="center" style="max-width: 800px; margin: auto;">
 
