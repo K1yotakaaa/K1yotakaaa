@@ -1,7 +1,7 @@
 <!-- ⚡ GitHub Profile README -->
 
 <h1 align="center">
-  <span style="font-size: 50px; font-weight: 1000; background: linear-gradient(90deg, #00F5FF, #9400FF, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  <span style="font-size: 45px; font-weight: 1000; background: linear-gradient(90deg, #00F5FF, #9400FF, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Kuro
   </span>
   <br/>
