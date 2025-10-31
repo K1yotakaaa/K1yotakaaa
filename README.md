@@ -3,7 +3,7 @@
 <h1 align="center">
   <span style="font-size: 42px; font-weight: bold; color: #00F5FF;">Kuro</span>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9400FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Tech+Explorer;Crafting+Aesthetic+and+Dynamic+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=9400FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Tech+Explorer;Crafting+Aesthetic+and+Dynamic+Web+Experiences" alt="Typing SVG" />
 </h1>
 
 <p align="center">
