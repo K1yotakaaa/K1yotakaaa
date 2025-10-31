@@ -1,7 +1,7 @@
 <!-- ⚡ GitHub Profile README -->
 
 <h1 align="center">
-  <span style="font-size: 50px; font-weight: 900; background: linear-gradient(90deg, #00F5FF, #9400FF, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  <span style="font-size: 50px; font-weight: 1000; background: linear-gradient(90deg, #00F5FF, #9400FF, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Kuro
   </span>
   <br/>
@@ -14,9 +14,6 @@
   </a>
   <a href="https://www.linkedin.com/in/kuroli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
