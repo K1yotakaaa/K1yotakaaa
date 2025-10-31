@@ -1,40 +1,55 @@
 <!-- ⚡ GitHub Profile README -->
 
+<div align="center">
+
 <h1 align="center">
-  <span style="font-size: 45px; font-weight: 1000; background: linear-gradient(90deg, #00F5FF, #9400FF, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Kuro
-  </span>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+Tech+Explorer;Crafting+Aesthetic+and+Dynamic+Web+Experiences;Designing+Interfaces+that+Feel+Alive+⚡" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=06E0F7&text=KURO&fontSize=35&fontAlignY=40&animation=fadeIn&desc=&descAlignY=70&color=0D1117" alt="Kuro Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=B44CFF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+Tech+Explorer;Crafting+Immersive+%26+Aesthetic+Web+Experiences" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/K1yotakaaa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kuroli" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/K1yotakaaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/kuroli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend_Development-00F5FF?style=for-the-badge&logo=codepen&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Style-Dark_Neon-9400FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vibe-Cyber_Neon-7A00FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Workflow-Creative_&_Clean-FF00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+</div>
+
 ---
 
-### 🧠 About Me
-💻 Frontend Developer focused on crafting **visually immersive, interactive**, and **high-performance** web experiences.  
-🧩 Passionate about **UI motion**, **aesthetic detail**, and **pixel-perfect design**.  
-🚀 Exploring the blend between **art & code**, shaping interfaces that *feel alive*.  
+## 🧠 About Me  
+
+<div align="center" style="max-width: 800px; margin: auto;">
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+👋 I’m a **Frontend Developer** passionate about blending **art direction** with **technical precision**.  
+
+✨ I love turning abstract ideas into **interactive, living interfaces** — where **motion**, **depth**, and **color** come together in perfect sync.  
+
+💻 My toolkit revolves around **Angular**, **React**, but I’m always exploring **new stacks** and **creative frameworks** to push boundaries.   
+
+</td>
+<td align="center" width="40%">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/code-coding.gif" width="250" style="border-radius: 12px;" alt="matrix coding gif">
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🖥️ Frontend
+#### 🖥️ Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -45,7 +60,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### 🧱 Backend & Databases
+#### 🧱 Backend & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -54,7 +69,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🧩 Tools & Software
+#### 🧩 Tools & Software
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -70,7 +85,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K1yotakaaa&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=K1yotakaaa&theme=tokyonight&hide_border=true" height="160"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1yotakaaa&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
