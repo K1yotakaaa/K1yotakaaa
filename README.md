@@ -1,9 +1,11 @@
 <!-- ⚡ GitHub Profile README -->
 
 <h1 align="center">
-  <span style="font-size: 42px; font-weight: bold; color: #00F5FF;">Kuro</span>
+  <span style="font-size: 50px; font-weight: 900; background: linear-gradient(90deg, #00F5FF, #9400FF, #FF00FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Kuro
+  </span>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=9400FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Tech+Explorer;Crafting+Aesthetic+and+Dynamic+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+Tech+Explorer;Crafting+Aesthetic+and+Dynamic+Web+Experiences;Designing+Interfaces+that+Feel+Alive+⚡" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,6 +14,9 @@
   </a>
   <a href="https://www.linkedin.com/in/kuroli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -66,18 +71,6 @@
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/K1yotakaaa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kuroli" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K1yotakaaa&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -85,7 +78,3 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1yotakaaa&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=K1yotakaaa&color=00F5FF&style=flat-square" alt="Profile views"/>
-</p>
