@@ -2,17 +2,23 @@
 
 <div align="center">
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 1px; margin-top: -10px;">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=B44CFF&text=KURO&fontSize=38&fontAlignY=45&animation=fadeIn&color=0D1117" alt="Kuro Banner" style="margin-bottom: 0;" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=B44CFF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+Tech+Explorer;Crafting+Immersive+%26+Aesthetic+Web+Experiences" alt="Typing SVG" style="margin-top: -10px;" />
-</div>
-
+<h1 align="center">
+  <a href="https://github.com/K1yotakaaa">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=B44CFF&text=KURO&fontSize=30&fontAlignY=45&animation=fadeIn&color=0D1117" alt="KURO" style="max-width: 100%; max-height: 50px">
+  </a>
+</h1>
+<h3 align="center">
+  <a href="https://github.com/K1yotakaaa">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=B44CFF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+Tech+Explorer;Crafting+Immersive+%26+Aesthetic+Web+Experiences" alt="Typing SVG" style="max-width: 100%;">
+  </a>
+</h3>
 
 
 <div align="center">
   <a href="https://github.com/K1yotakaaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
   <a href="https://www.linkedin.com/in/kuroli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
 </div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend_Development-00F5FF?style=for-the-badge&logo=codepen&logoColor=white"/>
