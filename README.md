@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=B44CFF&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+Tech+Explorer;Crafting+Immersive+%26+Aesthetic+Web+Experiences" alt="Typing SVG" style="margin-top: -10px;" />
 </div>
 
----
+
 
 <div align="center">
   <a href="https://github.com/K1yotakaaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
@@ -95,9 +95,13 @@
 ---
 
 ## 📊 GitHub Stats
+
+#### 🔥 Streak Stats
 <div align="center">
-  <p fontSize=20>🔥 Streak Stats</p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=K1yotakaaa&theme=tokyonight&hide_border=true" height="160"/>
-  <br/>
+</div>
+
+#### 💻 GitHub Profile Stats
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1yotakaaa&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
 </div>
